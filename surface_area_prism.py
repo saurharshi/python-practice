@@ -1,0 +1,5 @@
+a=int(input("enter the length of the first side: "))
+b=int(input("enter the length of the second side: "))
+c=int(input("enter the length of the third side: "))
+surface_area_of_prism=((2*a*b)+(2*b*c)+(2*c*a))
+print(surface_area_of_prism)
