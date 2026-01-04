@@ -12,3 +12,8 @@ This repository contains my Python learning and practice programs.
 - Improve problem-solving skills
 - Practice Python syntax and concepts
 - Build consistency in coding
+
+## Folder Structure
+- python_basics/
+- data_types_and_operators/
+- 
